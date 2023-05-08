@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E46BA8BF2A08FC0A00557D62 /* AccountDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = E46BA8BE2A08FC0A00557D62 /* AccountDetail.swift */; };
 		E4709D432980FAF5004C0902 /* RealmSearchableApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4709D422980FAF5004C0902 /* RealmSearchableApp.swift */; };
 		E4709D452980FAF5004C0902 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4709D442980FAF5004C0902 /* ContentView.swift */; };
 		E4709D472980FAF9004C0902 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4709D462980FAF9004C0902 /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E46BA8BE2A08FC0A00557D62 /* AccountDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountDetail.swift; sourceTree = "<group>"; };
 		E4709D3F2980FAF5004C0902 /* RealmSearchable.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RealmSearchable.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4709D422980FAF5004C0902 /* RealmSearchableApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RealmSearchableApp.swift; sourceTree = "<group>"; };
 		E4709D442980FAF5004C0902 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 				E4709D582980FC9A004C0902 /* AccountList.swift */,
 				E4709D462980FAF9004C0902 /* Assets.xcassets */,
 				E4709D482980FAF9004C0902 /* Preview Content */,
+				E46BA8BE2A08FC0A00557D62 /* AccountDetail.swift */,
 			);
 			path = RealmSearchable;
 			sourceTree = "<group>";
@@ -177,6 +180,7 @@
 				E4709D5B2980FCCD004C0902 /* AccountRow.swift in Sources */,
 				E4709D5D2980FDEC004C0902 /* AccountModelData.swift in Sources */,
 				E4709D432980FAF5004C0902 /* RealmSearchableApp.swift in Sources */,
+				E46BA8BF2A08FC0A00557D62 /* AccountDetail.swift in Sources */,
 				E4709D572980FC0F004C0902 /* Account.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -22,7 +22,7 @@ struct AccountList: View {
         NavigationStack {
             List(accounts) { account in
                 NavigationLink{
-                    
+                    AccountDetail()
                 } label: {
                     AccountRow(account: account)
                 }
